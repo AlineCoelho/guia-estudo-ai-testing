@@ -41,3 +41,7 @@ A Inteligência Artificial pode atuar como:
 - **Teste de Regressão**: Garante que mudanças não afetaram funcionalidades existentes
 - **Teste Exploratória**: Teste baseado na experiência do QA
 - **IA (Inteligência Artificial)**: Tecnologia capaz de simular raciocínio humano
+
+  
+NotebookLM: https://notebooklm.google.com/notebook/e1498602-3674-4ad7-ba61-73082ba20ca7
+
